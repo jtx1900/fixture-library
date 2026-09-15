@@ -1,0 +1,110 @@
+{
+  "format": "fixture-library-manifest",
+  "manifest_version": 1,
+  "generated_at": "2026-09-15T01:18:31Z",
+  "revision": "03e9a31e83b462b465bb0173af94e1e20fd583d72a86cf7971dabe4844f53754",
+  "file_count": 20,
+  "total_size": 170824,
+  "files": [
+    {
+      "path": "Generic/CMY.xml",
+      "size": 7874,
+      "sha256": "9a6cc95bcb09249c1f7b88782396970e137712fc577f728b7b7edacbe782951e"
+    },
+    {
+      "path": "Generic/Dimmer.xml",
+      "size": 3646,
+      "sha256": "11f3561235e14163c4a7dfc022b595fd87d609f24a8ae237b1d8ef84215785d4"
+    },
+    {
+      "path": "Generic/DimRGB.xml",
+      "size": 4986,
+      "sha256": "1963dc046b89ce2d49518d0bcde3835df003bd36c597454537ef387e8657252e"
+    },
+    {
+      "path": "Generic/DimRGBW.xml",
+      "size": 5885,
+      "sha256": "aa9b07e33ba18ec2eed3424caa9c5e427ea963b16c5947e88925628ac298816a"
+    },
+    {
+      "path": "Generic/DimRGBWSM.xml",
+      "size": 7260,
+      "sha256": "e43d7bfe1e8ff12110b936bcf3ed1befcb86e75227c43eaf05a251402f25d685"
+    },
+    {
+      "path": "Generic/RGB.xml",
+      "size": 9224,
+      "sha256": "1f1943c704e01d365cbc80061b3cac6d01ff8bc83615647ac843e0b78cf03fd3"
+    },
+    {
+      "path": "Generic/RGBA.xml",
+      "size": 9995,
+      "sha256": "1318e6f8df3d06b4ed98c440d0c5623da89e78a451094044166ff9e9294bc88e"
+    },
+    {
+      "path": "Generic/RGBAUV.xml",
+      "size": 16183,
+      "sha256": "13ad47d4803db46247c25c4dd5074ca488b7771f1eb44d2f9788b4827b6a4e68"
+    },
+    {
+      "path": "Generic/RGBAW.xml",
+      "size": 11802,
+      "sha256": "3251fbe580d1be16662412e3e61ecdf6ccfc5e5d17ff1817c897f9b463e70e00"
+    },
+    {
+      "path": "Generic/RGBAWUV.xml",
+      "size": 18460,
+      "sha256": "7e0cdff2f19ef945f1559d10c4114ec6718be3ee3533d8d4cf9baabf1adf20a7"
+    },
+    {
+      "path": "Generic/RGBDim.xml",
+      "size": 4982,
+      "sha256": "110f27b19e98eea9512c225ce6b6418423544177e8235a69ddb74646b025a453"
+    },
+    {
+      "path": "Generic/RGBDimS.xml",
+      "size": 5429,
+      "sha256": "7cb0083c14a3eb3ac0a692ead6091687725383a8b2922405975a6447bca46bcd"
+    },
+    {
+      "path": "Generic/RGBVdim.xml",
+      "size": 4538,
+      "sha256": "cde22d6292361139368bb598ea0bc8f33ce2ad6a93710029c07ec0192f327086"
+    },
+    {
+      "path": "Generic/RGBW.xml",
+      "size": 11345,
+      "sha256": "263b5f2743e18c339ee20165cfb1854d17b2ab03ba4132ca40cc0a459ae8c047"
+    },
+    {
+      "path": "Generic/RGBWA.xml",
+      "size": 13413,
+      "sha256": "6c87995d7d065992aaf28363a2d8ce2957288718dc9e39085941c03e1db7deba"
+    },
+    {
+      "path": "Generic/RGBWAUV.xml",
+      "size": 16913,
+      "sha256": "2b19c6af00a88d36041c001654b7e9adca6c0c88d3d6d445d947b62e49ddf0b4"
+    },
+    {
+      "path": "Generic/RGBWDim.xml",
+      "size": 5887,
+      "sha256": "d7d1727010f57b3c0c4ef99313d21c9b777f5f12356fc152deedc2cd9aed2926"
+    },
+    {
+      "path": "Generic/RGBWSAuDim.xml",
+      "size": 6746,
+      "sha256": "d2d575ca954ec2168b7b36e87bcf586ead37f0a43e3e817bc75e4c0527d6755f"
+    },
+    {
+      "path": "Generic/Smoke.xml",
+      "size": 2629,
+      "sha256": "17079ee798eee1eb2d6985b88d29f6e09a462233ac9437d380bedc88db282c10"
+    },
+    {
+      "path": "Generic/XY.xml",
+      "size": 3627,
+      "sha256": "d69a294c9e9a9f6051351ce88579c3864318d4309db2a132ef2f8d4f0cd4db57"
+    }
+  ]
+}
